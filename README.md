@@ -26,7 +26,20 @@ Google Firebase: Used for backend functions and app hosting.
 Google Gemini (LLM): Used to process chat text and generate AI responses.
 These providers process data according to their own strict privacy and security standards.
 
-### 5. Your Rights Under GDPR
+Google AdMob: Advertising and analytics.
+
+### 5. Third-Party Advertising
+We use the Google Mobile Ads SDK (AdMob) to display advertisements within our application. These ads are served by third-party advertising networks. In order to serve relevant ads and measure ad performance, these providers may automatically collect and use certain data, including:
+
+Device Identifiers: Such as your Advertising ID.
+
+Usage Information: Such as your interactions with advertisements and the app.
+
+Technical Data: Such as your IP address (which may be used to estimate your approximate location).
+
+This data is processed by our advertising partners for the purposes of serving personalized advertisements, analytics, and fraud prevention. You can manage your ad personalization settings through your device's system settings. For more information on how Google uses data, please visit Google’s Privacy & Terms.
+
+### 6. Your Rights Under GDPR
 As a resident of the European Union, you have the following rights:
 
 The right to access or delete any data we have processed.
@@ -35,16 +48,16 @@ The right to restrict or object to the processing of your data.
 
 The right to data portability.
 
-### 6. Data Deletion Requests
+### 7. Data Deletion Requests
 Since this app does not use user accounts, all chat history is stored locally on your device. You can delete this data at any time by clearing the app's cache or uninstalling the app.
 
 If you have sent data to our server for processing and wish to request its deletion from our logs, please email us at aibalkanfriend@gmail.com with your request. We will process your request in accordance with applicable data protection laws.
 
-### 7. Security
+### 8. Security
 We take the security of your data seriously. All communication between the app and our servers is encrypted using HTTPS/TLS to ensure that your messages cannot be intercepted during transit.
 
-### 8. Changes to This Policy
+### 9. Changes to This Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-### 9. Contact Us
+### 10. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: aibalkanfriend@gmail.com.
